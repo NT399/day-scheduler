@@ -35,7 +35,7 @@ To use the application, please follow the steps below:
 ## Credits
 
 The following links were helpful for the completion of this project:
-- https://getbootstrap.com/docs/4.0/components/input-group/ (This was the source of the bootstrap)
+- https://getbootstrap.com/docs/4.0/components/input-group/ (This was the source of the bootstrap used in this project)
 - https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
 - https://www.w3schools.com/js/js_htmldom_eventlistener.asp
 - https://www.w3schools.com/tags/att_input_value.asp
