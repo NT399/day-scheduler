@@ -1,5 +1,5 @@
 # Day-scheduler
-A work day scheduler to enter any tasks or reminders
+A work day scheduler to enter any tasks or reminders.
 
 ## Description
 
@@ -30,7 +30,7 @@ To use the application, please follow the steps below:
 3. The entered task should appear in the field when the page is refreshed.
 
 
-![Screenshot of the website] https://github.com/NT399/day-scheduler/blob/main/assets/word%20day%20scheduler%20website.PNG
+![Screenshot of the website](https://github.com/NT399/day-scheduler/blob/main/assets/word%20day%20scheduler%20website.PNG)
 
 ## Credits
 
